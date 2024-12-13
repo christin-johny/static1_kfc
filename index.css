@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+}
+
+.header {
+  float: right;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  padding-top: 20px;
+}
+.logo {
+  width: 70px;
+  height: 40px;
+  margin-left: 15%;
+}
+.menu {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  margin-left: 5%;
+}
+.deals {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  margin-left: 5%;
+}
+.signin {
+  width: 30px;
+  height: 20px;
+  margin-left: 30%;
+}
+.signin-text {
+  text-decoration: none;
+  color: black;
+}
+.cart {
+  width: 60px;
+  height: 60px;
+}
+.span {
+  font-size: xx-large;
+}
+
+.delivery {
+  display: flex;
+  width: 100%;
+  height: 90px;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+}
+.delivery-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.order-button {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 120px;
+  margin-left: 2.5%;
+  background-color: red;
+  border: none;
+  border-radius: 20px;
+  font-size: 15px;
+  color: white;
+}
+.browse {
+  height: 120px;
+  width: 88%;
+  align-content: center;
+  background-color: white;
+  padding-left: 12%;
+}
+.browse-text {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.items-main {
+  height: 700px;
+  width: 90%;
+  background-color: white;
+  padding-left: 10%;
+}
+
+.items {
+  height: 100%;
+  width: 100%;
+  background-color:white;
+}
+.food {
+  border-radius: 4px;
+  float: left;
+  width: 300px;
+  height: 265px;
+  background-color: rgb(236, 242, 242);
+  margin: 2%;
+}
+.food-text{
+  text-decoration: none;
+}
+.food-image {
+
+  border-radius: 4px;
+  width: 100%;
+  height: 220px;
+}
+.food-title {
+
+  text-align: center;
+  font-weight: 800;
+  font-size: 18px;
+  color: #202124;
+}
+
+.bottom-main {
+  padding-left: 5%;
+  width: 95%;
+  height: 600px;
+  background-color: #202124;
+}
+
+.exclusive {
+  height: 100px;
+  width: 100%;
+  align-content: center;
+  background-color: rgb(34, 31, 31);
+}
+.exclusive-text1 {
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+.exclusive-text2{
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  margin-left: 40%;
+
+}
+.offers-main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 500px;
+  background-color: #202124;
+}
+.button-left{
+  font-size: 30px;
+  height: 50px;
+  width:50px;
+  border: none;
+  margin-top:150px;
+  margin-right:40px;
+  border-radius: 25px;
+  border-left: px;
+  background-color: rgb(191, 191, 205);
+}
+.offers{
+  height: 450px;
+  margin-right: 10px;
+  justify-items: center;
+  background-color:white;
+}
+.offers-img{
+  width:320px;
+  height:280px;
+}
+.head{
+margin:0px;
+color: red;
+}
+.h-link{
+  font-size: 25px;
+  margin-right: 25px;
+}
+.b-button{
+  width:150px;
+  height: 50px;
+  border-radius:25px ;
+  font-size: 20px;
+}
