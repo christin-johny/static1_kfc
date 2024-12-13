@@ -93,7 +93,10 @@ body {
 .items {
   height: 100%;
   width: 100%;
-  background-color:white;
+  background-color: white;
+  display: flex;
+  flex-direction:column;
+  flex-wrap: wrap;
 }
 .food {
   border-radius: 4px;
